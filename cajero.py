@@ -26,7 +26,7 @@ def main():
         cant_1000 += 1
     
     print("Hola")
-    
+    print("Chau")
 
 if __name__ == "__main__":
     main()

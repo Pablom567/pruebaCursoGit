@@ -25,6 +25,8 @@ def main():
         caja_1000 -= 1
         cant_1000 += 1
     
+    print("Hola")
+    
 
 if __name__ == "__main__":
     main()
